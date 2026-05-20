@@ -45,7 +45,7 @@ simply subtracting the secret k.
 
 🖥️ Screenshots
 
-
+![](Screen.png)
 
 The program displays a step-by-step log, highlighting Alice's actions in blue and Bob's in green. At the end of each operation, the exact size of the transferred data in bytes is indicated.
 
